@@ -8,3 +8,12 @@
 	width: 75%;
 	font-size: 50px;
 }
+
+.nav.nav-center {
+    margin:0;
+    float:none;
+}
+
+body {
+	padding-top: 100px;
+}
