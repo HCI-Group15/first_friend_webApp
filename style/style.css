@@ -22,9 +22,15 @@
 
 /*.panel {
 	margin-left: auto;
+<<<<<<< HEAD
 	margin-right: auto;
 	width: 75%;
 }*/
+=======
+	margin-right: auto; 
+	/*width: 75%;*/
+}
+>>>>>>> master
 
 .minipic {
 	width: 100%;
@@ -40,6 +46,14 @@
     float:none;
 }
 
-body {
+#pad-ho {
+	padding-top: 50px;
+}
+
+#pad-main {
+	padding-top: 75px;
+}
+
+#pad-ent {
 	padding-top: 100px;
 }
