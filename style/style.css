@@ -20,11 +20,17 @@
 	text-align: center;
 }
 
-.panel {
+/*.panel {
 	margin-left: auto;
+<<<<<<< HEAD
+	margin-right: auto;
+	width: 75%;
+}*/
+=======
 	margin-right: auto; 
 	/*width: 75%;*/
 }
+>>>>>>> master
 
 .minipic {
 	width: 100%;
