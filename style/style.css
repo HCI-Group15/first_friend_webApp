@@ -23,7 +23,7 @@
 .panel {
 	margin-left: auto;
 	margin-right: auto; 
-	width: 75%;
+	/*width: 75%;*/
 }
 
 .minipic {
@@ -40,6 +40,14 @@
     float:none;
 }
 
-body {
+#pad-ho {
+	padding-top: 50px;
+}
+
+#pad-main {
+	padding-top: 75px;
+}
+
+#pad-ent {
 	padding-top: 100px;
 }
